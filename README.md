@@ -1,2 +1,2 @@
 # Ollama
-Introduction to MLL, Ollama, Agents and Langchain
+Introduction to LLM, Ollama, Agents and Langchain
