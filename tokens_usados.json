@@ -1,0 +1,14 @@
+{
+    "supervisor": {
+        "in": 1074,
+        "out": 8
+    },
+    "investigador": {
+        "in": 3651,
+        "out": 664
+    },
+    "escritor": {
+        "in": 665,
+        "out": 609
+    }
+}
